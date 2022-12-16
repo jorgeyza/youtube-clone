@@ -1,6 +1,6 @@
 # Build a Youtube clone with Express, MongoDB, & TypeScript
 
-Based in this [project](youtu.be/hPck3Q13wdE)
+Based in this [project](https://youtu.be/hPck3Q13wdE)
 
 ## Features
 

@@ -1,0 +1,18 @@
+@baseUrl = http://localhost:4000
+
+# @name me
+GET {{baseUrl}}/api/users 
+Content-Type: application/json
+
+###
+# @name registerUser
+POST {{baseUrl}}/api/users
+Content-Type: application/json
+
+{
+    "username":"tom2",
+    "password":"password",
+    "email":"tom2@example.com",
+    "confirmPassword":"password",
+    "unknown":"oh no"
+}
